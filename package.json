@@ -1,0 +1,8 @@
+{
+  "name": "tip-calc",
+  "version": "1.0.0",
+  "main": "tip-calc.js",
+  "repository": "git@github.com:tracilevine/tip-calc.git",
+  "author": "tracilevine <televine@gmail.com>",
+  "license": "MIT"
+}
